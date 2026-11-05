@@ -1,8 +1,8 @@
 <div align="center">
 
-# Привет, я Даниил 👋
+# Привет, я Даниил
 
-**Backend-разработчик** · Go-энтузиаст · Ищу стажировку
+**Аналитик данных** · ML-энтузиаст
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ddanyo)
 [![Habr Career](https://img.shields.io/badge/Habr_Career-65A3BE?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/ddanyo)
@@ -10,43 +10,17 @@
 
 </div>
 
----
-
 ## О себе
 
-Студент ВГУ (ПММ), 21 год, Воронеж.
-Последний год активно развиваюсь как backend-разработчик — главным образом на **Go**.
-Открыт к стажировкам и готов интенсивно учиться на реальных задачах.
-
-- Сейчас углубляюсь в Go (concurrency, архитектурные паттерны)
-- Изучаю: gRPC, Kafka
-- Готов к удалённой работе
-
----
+Студент Воронежского государственного университета, направление «Прикладная математика и информатика».
 
 ## Стек
 
-**Основное**
-
-<p>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-</p>
-
-**Инфраструктура и БД**
-
-<p>
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
----
-
-<div align="center">
-  <i>Открыт к предложениям — пишите в Telegram!</i>
-</div>
+| Направление | Инструменты |
+|---|---|
+| **Анализ данных** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **Визуализация** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=flat-square) |
+| **Machine Learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| **Математика** | Теория вероятностей · Прикладная статистика |
+| **Базы данных** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Инструменты** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
